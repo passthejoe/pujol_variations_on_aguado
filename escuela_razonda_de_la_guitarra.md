@@ -4,7 +4,7 @@ Even though this preface appears in the fourth volume, nowhere in that book does
 
 The *el cuatro libro* available on the internet as a PDF has a date on the back cover of March 16, 1998.
 
-All four volumes, originally published by Ricordi in Argentina, 
+All four volumes, originally published by Ricordi in Argentina, have text in both Spanish and French. It is the contention of Matanya Ophee, whose Editions Orphée published the excellent English translation of volumes 1-3, that Pujol wrote the French text in addition to the Spanish and didn't rely on a translator.
 
 There is a preface in *libro tercero*, dated September 1952, called *proemio* in Spanish
 
