@@ -8,7 +8,7 @@ All four volumes, originally published by Ricordi in Argentina, have text in bot
 
 There is a preface in *libro tercero*, dated September 1952, called *proemio* in Spanish
 
-Also in the *prefacio* to *el cuatro libro* is the plan for a fifth volume, which was never published. Some say it exists in manuscript and will be released at some point, but as of August 2020, it hasn't appeared.
+Also in the *prefacio* to *el cuatro libro* is the plan for a fifth volume, which was never been published. [Some say it exists](https://rmclassicalguitar.com/pujol/) in manuscript and will be released at some point, but as of August 2020, it hasn't appeared.
 
 All four of Pujol's "Escuela Razonada" volumes are generally available on the internet in PDF form. Since there is a legitimate publisher, I won't host them here (unless and until I determine that the Melos editions are satisfactory).
 
@@ -29,4 +29,8 @@ I haven't seen the Melos editions yet, though I will be ordering at least one of
 
 That said, the Ricordi editions are VERY valuable to have as references, and they can be found as PDFs in many places on the Internet. One way to easily find them is through [Scribd.com](http://scribd.com). You do need to start an account, but you don't need to subscribe to the service (and they shouldn't be charging for decades-old PDFs for which they have no ownership). Even if you can't "see" the PDFs on Scribd without a subscription, the Download button still works.
 
-"El Dilema Del Sonido en La Guitarra" seems to be only available at an exorbitant price, so I will make my PDF available at some point soon.
+"El Dilema Del Sonido en La Guitarra" seems to be only available at an exorbitant price, so I will make my PDF available at some point soon. Rob MacKillop offers [the English portion](https://rmclassicalguitar.files.wordpress.com/2015/08/pujol-dilema-of-timbre-on-the-guitar.pdf) on [his excellent web site](https://rmclassicalguitar.com/pujol/).
+
+### References
+
+[Rob MacKillop's Emilio Pujol page](https://rmclassicalguitar.com/pujol/)
