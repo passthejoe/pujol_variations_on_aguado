@@ -1,4 +1,6 @@
-# Emilio Pujol's 15 variations on an exercise by Dionisio Aguado and their place in the four-volume "Escuela Razonada de la Guitarra" and the teacher/author/composer's body of work
+# Emilio Pujol's 17 variations on an exercise by Dionisio Aguado
+
+## Their place in the four-volume "Escuela Razonada de la Guitarra" and the teacher/author/composer/performer's body of work
 
 Volume 4 of Emilio Pujol's "Escuela Razonada de la Guitarra" — called *el cuatro libro* in Pujol's *prefecio* to the Spanish/French edition of his detailed 20th century guitar method — is less well-known in the English-speaking world because it was not part of the three-volume Editions Orphée English translation known as "Guitar School."
 
@@ -6,7 +8,7 @@ But Volume 4 is full of technical exercises and instructions, rendered in Spanis
 
 While *el segundo libro* and *el tercero libro* both contain studies grouped together at the end of their respective volumes, Pujol makes a departure in *el cuatro libro*, tying a number of *estudios* together in the form of a theme and variations.
 
-Volume 4 offers the short Exercise 19 from the influential guitar method by 19th-century giant Dionisio Aguado and follows it with *Estudios* LIV through LXVII — 15 variations composed by Pujol. Each variation focuses on different guitar techniques while at the same time venturing into harmonic territory that is very much of Pujol's time, the later Romantic and early modern periods of classical music.
+Volume 4 offers the short Exercise 19 from the influential guitar method by 19th-century giant Dionisio Aguado and follows it with *Estudios* LIV through LXX — 17 variations composed by Pujol. Each variation focuses on different guitar techniques while at the same time venturing into harmonic territory that is very much of Pujol's time, the later Romantic and early modern periods of classical music.
 
 In this essay I will attempt to place the Aguado exercise and the Pujol variations into some kind of context within the *canon* of guitar methods, running from those of Fernando Sor, Aguado and Matteo Carcassi, through Pujol's own comprehensive yet overlooked four-volume method.
 
