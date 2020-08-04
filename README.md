@@ -2,6 +2,9 @@
 
 ### Their place in the four-volume "Escuela Razonada de la Guitarra" and the teacher/author/composer/performer's body of work
 
+**By Steven Rosenberg**
+*steven@passthejoe.net*
+
 Volume 4 of Emilio Pujol's "Escuela Razonada de la Guitarra" — called *el cuatro libro* in Pujol's *prefecio* to the Spanish/French edition of his detailed 20th century guitar method — is less well-known in the English-speaking world because it was not part of the three-volume Editions Orphée English translation known as "Guitar School."
 
 But Volume 4 is full of technical exercises and instructions, rendered in Spanish and French, of course. As with volumes 2 and 3, *libro quartro* ends with a number of studies. Meant to reinforce various aspects of classical guitar technique, these selections are very musical — and surprisingly modern at times.
@@ -19,3 +22,7 @@ The other giant of the classical guitar, Andres Segovia, who took the instrument
 As bona fide students of Tárrega, guitarists Miguel Llobet and Pujol toured the world, but neither maintained the performance schedule and relentless ability to promote himself and his instrument that characterized Segovia during his long career.
 
 Segovia commissioned hundreds of original works for the guitar, composed a few of his own, and issued a decent number of editions of works by famous composers, many of which consist of studies and etudes. Yet aside from his famous (and famously short) editions of major and minor scales and slur studies, Segovia never put together his own guitar method.
+
+*This work is available via GitHub [under a Creative Commons license](/LICENSE.md) that precludes republishing without attribution and for commercial use. 
+
+If you would like me to write something for publication, contact me at steven@passthejoe.net.
