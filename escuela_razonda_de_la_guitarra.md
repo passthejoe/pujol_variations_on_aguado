@@ -31,6 +31,8 @@ That said, the Ricordi editions are VERY valuable to have as references, and the
 
 "El Dilema Del Sonido en La Guitarra" seems to be only available at an exorbitant price, so I will make my PDF available at some point soon. Rob MacKillop offers [the English portion](https://rmclassicalguitar.files.wordpress.com/2015/08/pujol-dilema-of-timbre-on-the-guitar.pdf) on [his excellent web site](https://rmclassicalguitar.com/pujol/).
 
+[Towards the Holy Grail: A Short History of Guitar Methods by Graham Wade](https://classicalguitarmagazine.com/towards-the-holy-grail-a-short-history-of-guitar-methods/) (Classical Guitar Magazine, June 17, 2019)
+
 ### References
 
 [Rob MacKillop's Emilio Pujol page](https://rmclassicalguitar.com/pujol/)
