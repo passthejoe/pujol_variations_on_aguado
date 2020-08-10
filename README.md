@@ -33,6 +33,18 @@ These chapters/essays are part of the project:
 
 [Volume 4 of Pujol's 'Escuela Razonada de La Guitarra'](/passthejoe/pujol_variations_on_aguado/blob/main/volume_4.md)
 
+**Upcoming:**
+
+Emilio Pujol Vilarrubí
+
+Francisco Tárrega
+
+Miguel Llobet Solés
+
+Antonio de Torres Jurado
+
+Ronald Purcell
+
 *This work is available via GitHub [under a Creative Commons license](/LICENSE.md) that precludes republishing without attribution and for commercial use.* 
 
 *If you would like me to write something for publication, contact me at classical_guitar@passthejoe.net.*
