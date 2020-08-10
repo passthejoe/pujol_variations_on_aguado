@@ -25,4 +25,4 @@ Segovia commissioned hundreds of original works for the guitar, composed a few o
 
 *This work is available via GitHub [under a Creative Commons license](/LICENSE.md) that precludes republishing without attribution and for commercial use.* 
 
-*If you would like me to write something for publication, contact me at steven@passthejoe.net.*
+*If you would like me to write something for publication, contact me at classical_guitar@passthejoe.net.*
