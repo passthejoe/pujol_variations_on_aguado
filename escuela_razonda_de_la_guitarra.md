@@ -26,15 +26,17 @@ The prices of the Pujol books on the Melos site seem more than outrageous, But t
 
 I haven't seen the Melos editions yet, though I will be ordering at least one of the volumes soon.
 
-That said, the Ricordi editions are VERY valuable to have as references, and they can be found as PDFs in many places on the Internet.
+The Ricordi editions are VERY valuable to have as references, and they can be found as PDFs in many places on the Internet.
 
-The best is Universidad Panamericana, which offers [PDFs of all four "Escuela Razonada" volumes](http://biblio.upmx.mx/library/index.php?title=310329&query=@title=Special:GSMSearchPage@process=@subheadings=GUITARRA%20ESTUDIOS%20Y%20EJERCICIOS%20LEMB%20@mode=&recnum=2). This is the easiest way to get them.
+The best is Universidad Panamericana, which offers [PDFs of all four "Escuela Razonada" volumes](http://biblio.upmx.mx/library/index.php?title=310329&query=@title=Special:GSMSearchPage@process=@subheadings=GUITARRA%20ESTUDIOS%20Y%20EJERCICIOS%20LEMB%20@mode=&recnum=2) (look at the bottom of the page for the links). This is the easiest way to get them.
 
 Another way is through [Scribd.com](http://scribd.com). You need to start an account, but you don't need to subscribe to the service (and they shouldn't be charging for decades-old PDFs for which they have no ownership). Even if you can't "see" the PDFs on Scribd without a subscription, the Download button still works.
 
 "El Dilema Del Sonido en La Guitarra" is available on Amazon, but at an exorbitant price. Rob MacKillop offers the English portion [as a PDF](https://rmclassicalguitar.files.wordpress.com/2015/08/pujol-dilema-of-timbre-on-the-guitar.pdf) on [his excellent web site](https://rmclassicalguitar.com/pujol/). A version with Spanish, French and English can be found on Scribd. Unless you really want the Spanish and French versions, Rob's PDF is clearer (in the literal sense).
 
 ### References
+
+[Universidad Panamericana Campus Mexico PDFs of "Escuela Razonada de La Guitarra"](http://biblio.upmx.mx/library/index.php?title=310329&lang=es&query=@title=Special:GSMSearchPage@process=@titulo=@autor=pujol@keywords=@material=@ubicacion=@sortby=sorttitle@mode=&recnum=14&mode=) (Links to all four volumes are near the bottom of the page)
 
 [Rob MacKillop's Emilio Pujol page](https://rmclassicalguitar.com/pujol/)
 
