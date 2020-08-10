@@ -23,6 +23,16 @@ As bona fide students of Tárrega, guitarists Miguel Llobet and Pujol toured the
 
 Segovia commissioned hundreds of original works for the guitar, composed a few of his own, and issued a decent number of editions of works by famous composers, many of which consist of studies and etudes. Yet aside from his famous (and famously short) editions of major and minor scales and slur studies, Segovia never put together his own guitar method.
 
+These chapters/essays are part of the project:
+
+[Emilio Pujol's 'Escuela Razonada de La Guitarra,' 4 volumes in Spanish and French](/passthejoe/pujol_variations_on_aguado/blob/main/escuela_razonda_de_la_guitarra.md)
+
+[Pujol's 'Guitar School,' 3 volumes in English](/passthejoe/pujol_variations_on_aguado/blob/main/guitar_school.md)
+
+[The Aguado study and 17 variations](/passthejoe/pujol_variations_on_aguado/blob/main/aguado_study_and_17_variations.md)
+
+[Volume 4 of Pujol's 'Escuela Razonada de La Guitarra'](/passthejoe/pujol_variations_on_aguado/blob/main/volume_4.md)
+
 *This work is available via GitHub [under a Creative Commons license](/LICENSE.md) that precludes republishing without attribution and for commercial use.* 
 
 *If you would like me to write something for publication, contact me at classical_guitar@passthejoe.net.*
