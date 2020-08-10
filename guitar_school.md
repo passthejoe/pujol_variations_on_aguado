@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-Book Three was reprinted — with a full re-typesetting — in 2012, [as Matanya Ophee wrote](https://matanya.livejournal.com/123740.html) in his extensive LiveJournal
-
-## References
-
-Matanya Ophee's LiveJournal <https://matanya.livejournal.com>
-
-Editions Orphee web site (archived on the Wayback Machine) <http://web.archive.org/web/20190105172726/http://www.editionsorphee.com/>
-=======
 # Pujol's 'Guitar School,' the three-volume Editions Orphée translation of 'Escuela Razonada de La Guitarra'
 
 There's *something* about Emilio Pujol's four-volume guitar method, product of the 1930s-50s though it is, that makes it relevant not just as vital history of the guitar but also a credible instructional choice for 21st-century players.
@@ -18,4 +9,11 @@ While Editions Orphée seems to have folded with the death of its owner, the inc
 The "Guitar School" can be purchased from Amazon, though availability is spotty, and prices are higher than they could be.
 
 I recommend getting them [from Strings By Mail](https://www.stringsbymail.com/sheet-music-3/classical-guitar-168/methods-etudes-1483/m-r-1517/pujol-emilio-1527/), the excellent, classical guitar-focused retailer, where the prices are fair and shipping inexpensive.
->>>>>>> c2bc377a68a6bd42f7fc0006c80b77d6f81f54ec
+
+Book Three was reprinted — with a full re-typesetting — in 2012, [as Matanya Ophee wrote](https://matanya.livejournal.com/123740.html) in his extensive LiveJournal
+
+## References
+
+Matanya Ophee's LiveJournal <https://matanya.livejournal.com>
+
+Editions Orphee web site (archived on the Wayback Machine) <http://web.archive.org/web/20190105172726/http://www.editionsorphee.com/>
