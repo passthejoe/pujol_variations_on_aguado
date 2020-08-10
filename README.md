@@ -25,7 +25,7 @@ Segovia commissioned hundreds of original works for the guitar, composed a few o
 
 These chapters/essays are part of the project:
 
-[Emilio Pujol's 'Escuela Razonada de La Guitarra,' 4 volumes in Spanish and French](/passthejoe/pujol_variations_on_aguado/blob/main/escuela_razonda_de_la_guitarra.md)
+[Emilio Pujol's 'Escuela Razonada de La Guitarra,' 4 volumes in Spanish and French](/main/escuela_razonda_de_la_guitarra.md)
 
 [Pujol's 'Guitar School,' 3 volumes in English](/passthejoe/pujol_variations_on_aguado/blob/main/guitar_school.md)
 
