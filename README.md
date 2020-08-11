@@ -5,9 +5,7 @@
 **By Steven Rosenberg**
 <br/>*classical_guitar@passthejoe.net*
 
-<img src="emilio_pujol.jpg" width=200px align=right>
-
-<table width="200" border="0" cellpadding="5">
+<table width="200" border="0" cellpadding="5" align=right>
 
 <tr>
 
