@@ -7,6 +7,18 @@
 
 <img src="emilio_pujol.jpg" width=200px align=right>
 
+<table width="200" border="0" cellpadding="5">
+
+<tr>
+
+<td align="center" valign="center">
+<img src="emilio_pujol.jpg" width=200px alt="Picture of Emilio Pujol" />
+<br />
+Emilio Pujol
+</td>
+
+</table>
+
 Volume 4 of Emilio Pujol's "Escuela Razonada de la Guitarra" — called *el cuatro libro* in Pujol's *prefecio* to the Spanish/French edition of his detailed 20th century guitar method — is less well-known in the English-speaking world because it was not part of the three-volume Editions Orphée English translation known as "Guitar School."
 
 But Volume 4 is full of technical exercises and instructions, rendered in Spanish and French, of course. As with volumes 2 and 3, *libro quartro* ends with a number of studies. Meant to reinforce various aspects of classical guitar technique, these selections are very musical — and surprisingly modern at times.
