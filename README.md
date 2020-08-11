@@ -2,10 +2,10 @@
 
 ### Their place in the four-volume "Escuela Razonada de la Guitarra" and the teacher/author/composer/performer's body of work
 
-<img src="emilio_pujol.jpg" width=200px style="align:right;">
-
 **By Steven Rosenberg**
 <br/>*classical_guitar@passthejoe.net*
+
+<img src="emilio_pujol.jpg" width=200px align=right">
 
 Volume 4 of Emilio Pujol's "Escuela Razonada de la Guitarra" — called *el cuatro libro* in Pujol's *prefecio* to the Spanish/French edition of his detailed 20th century guitar method — is less well-known in the English-speaking world because it was not part of the three-volume Editions Orphée English translation known as "Guitar School."
 
