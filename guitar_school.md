@@ -4,11 +4,21 @@ There's *something* about Emilio Pujol's four-volume guitar method, product of t
 
 Even though PDFs of 1990s-printed Spanish-French editions of "Escuela Razonada" are [easily available](http://biblio.upmx.mx/library/index.php?title=310329&lang=es&query=@title=Special:GSMSearchPage@process=@titulo=@autor=pujol@keywords=@material=@ubicacion=@sortby=sorttitle@mode=&recnum=14&mode=), I recommend and encourage students and teacher of the classical guitar to acquire the Editions Orphée translation of Pujol's first three volumes. The editing and translation are *extremely* well-done. The insight into what Pujol and others call the School of Tárrega is critical to the history of guitar technique. Pujol himself is an important, underappreciated figure, and these translations bring one of his major contributions to the English-reading world.
 
+Even though Book One contains no playable music, I still recommend buying it with the set. The more insight a student or teacher has into Pujol and his method, the better.
+
 While Editions Orphée seems to have folded with the death of its owner, the incomparable Matanya Ophee, "Guitar School" and many other works the small publisher released over the years continue to be available.
 
-The "Guitar School" can be purchased from Amazon, though availability is spotty, and prices are higher than they could be.
+The three volumes of "Guitar School" can be purchased from Amazon, though availability is spotty, and prices are higher than they could be.
 
 I recommend getting them [from Strings By Mail](https://www.stringsbymail.com/sheet-music-3/classical-guitar-168/methods-etudes-1483/m-r-1517/pujol-emilio-1527/), the excellent, classical guitar-focused retailer, where the prices are fair and shipping inexpensive.
+
+In August 2020, Strings by Mail prices for "Guitar School" are 
+
+[Book One](https://www.stringsbymail.com/pujol-guitar-school-a-theoretical-practical-method-for-the-guitar-vol-1-5317.html) ­— $25
+
+[Book Two](https://www.stringsbymail.com/pujol-guitar-school-a-theoretical-practical-method-for-the-guitar-vol-2-5316.html) — $29
+
+[Book Three](https://www.stringsbymail.com/pujol-guitar-school-a-theoretical-practical-method-for-the-guitar-vol-3-5318.html) — $25
 
 Book Three was reprinted — with a full re-typesetting — in 2012, [as Matanya Ophee wrote](https://matanya.livejournal.com/123740.html) in his extensive LiveJournal
 
