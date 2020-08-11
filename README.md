@@ -2,7 +2,7 @@
 
 ### Their place in the four-volume "Escuela Razonada de la Guitarra" and the teacher/author/composer/performer's body of work
 
-<img src="emilio_pujol.jpg" width=200px style="float:right;">
+<img src="emilio_pujol.jpg" width=200px style="align:right;">
 
 **By Steven Rosenberg**
 <br/>*classical_guitar@passthejoe.net*
