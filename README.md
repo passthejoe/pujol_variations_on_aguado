@@ -45,6 +45,8 @@ These chapters/essays are part of the project:
 
 [Volume 4 of Pujol's 'Escuela Razonada de La Guitarra'](/volume_4.md)
 
+[Antonio de Torres Jurado](/torres.md)
+
 **Upcoming:**
 
 Emilio Pujol Vilarrubí
@@ -52,8 +54,6 @@ Emilio Pujol Vilarrubí
 Francisco Tárrega
 
 Miguel Llobet Solés
-
-Antonio de Torres Jurado
 
 Ronald Purcell
 
