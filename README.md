@@ -4,6 +4,7 @@
 
 ![Image of Emilio Pujol](emilio_pujol.jpg)
 
+<img src="emilio_pujol.jpg" style=max-width:200px;float:right;>
 **By Steven Rosenberg**
 <br/>*classical_guitar@passthejoe.net*
 
