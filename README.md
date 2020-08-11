@@ -5,7 +5,7 @@
 **By Steven Rosenberg**
 <br/>*classical_guitar@passthejoe.net*
 
-<table width="200" border="2" cellpadding="5" padding="5" align=right>
+<table width="200" border="1" cellpadding="5" hspace="20" align=right>
 
 <tr>
 
