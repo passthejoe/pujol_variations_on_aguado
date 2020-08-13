@@ -67,6 +67,8 @@ Ronald Purcell
 
 Emilio Pujol: Estudios. CD. Frank Bungarten, guitarist. MDG Gold. Available from Amazon: <https://www.amazon.com/Estudios-Frank-Bungarten/dp/B07ZW98N4F> Also available on Spotify: <https://open.spotify.com/album/3AemhWycukvuac22AGO4tf>
 
+Frank Bungarten plays the Dionosio Aguado exercise and Emilio Pujol's variations at the University of Louisville in 2018. <https://www.youtube.com/watch?v=bxC5-mW5MVQ>
+
 *This work is available via GitHub [under a Creative Commons license](/LICENSE.md) that precludes republishing without attribution and for commercial use.* 
 
 *If you would like me to write something for publication, contact me at classical_guitar@passthejoe.net.*
