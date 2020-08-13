@@ -27,6 +27,10 @@ Volume 4 offers the short Exercise 19 from the influential guitar method by 19th
 
 In this essay I will attempt to place the Aguado exercise and the Pujol variations into some kind of context within the *canon* of guitar methods, running from those of Fernando Sor, Aguado and Matteo Carcassi, through Pujol's own comprehensive yet overlooked four-volume method.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bxC5-mW5MVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Above, Frank Bungarten plays the Aguado exercise and Pujol's variations (I'm as yet unsure of how many). The video description doesn't say that this has anything to do with Pujol, so this is quite a find. Bungarten recorded the Aguado study and Pujol variations for [an MDG Gold CD](https://www.amazon.com/Estudios-Frank-Bungarten/dp/B07ZW98N4F/) using a 2018 Gary Southwell guitar modeled after an 1883 Antonio de Torres.
+
 Looming over the literature and performance of the classical guitar in the late 19th century into the 20th were several prominent figures, including Francisco Tárrega, who nearly single-handedly dragged the guitar into the Romantic period through his teaching, compositions and transcriptions. Tárrega is regarded as the modern father of the guitar. The *School of Tárrega*, as his unwritten method and the followers of it are known, provided the inspiration — always prominently credited — for the methods written by Pujol, Pascual Roch and Julio Sagreras.
 
 The other giant of the classical guitar, Andres Segovia, who took the instrument to heights no one had reached before or since, praises Tárrega as a father of the modern guitar, but hews to the Segovia origin story of being almost entirely self-taught.
