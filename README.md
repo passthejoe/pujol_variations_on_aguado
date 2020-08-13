@@ -29,7 +29,7 @@ In this essay I will attempt to place the Aguado exercise and the Pujol variatio
 
 [![Frank Bungarten plays Pujol](https://img.youtube.com/vi/bxC5-mW5MVQ/0.jpg)](https://www.youtube.com/watch?v=bxC5-mW5MVQ)
 
-*Click the image above for a YouTube video of Frank Bungarten playing the Aguado exercise and Pujol's variations (I'm as yet unsure of how many). The video description doesn't say anything about Pujol, so this is quite a find. Bungarten recorded the Aguado study and Pujol variations for [an MDG Gold CD of Pujol studies](https://www.amazon.com/Estudios-Frank-Bungarten/dp/B07ZW98N4F/) using a 2018 Gary Southwell guitar modeled after an 1883 Antonio de Torres.*
+*Click the image above for [a YouTube video of Frank Bungarten playing the Aguado exercise and Pujol's variations](https://www.youtube.com/watch?v=bxC5-mW5MVQ) (I'm as yet unsure of how many). The video description doesn't say anything about Pujol, so this is quite a find. Bungarten recorded the Aguado study and Pujol variations for [an MDG Gold CD of Pujol studies](https://www.amazon.com/Estudios-Frank-Bungarten/dp/B07ZW98N4F/) using a 2018 Gary Southwell guitar modeled after an 1883 Antonio de Torres.*
 
 --------
 
