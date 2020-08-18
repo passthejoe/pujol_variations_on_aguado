@@ -1,6 +1,9 @@
 # Emilio Pujol's published compositions and transcriptions
 
-From Wikipedia:
+From Wikipedia
+<https://en.wikipedia.org/wiki/List_of_compositions_by_Emilio_Pujol>
+<https://en.wikipedia.org/wiki/Emilio_Pujol#Selected_list_of_compositions>
+
 
 ### Solo guitar
 
