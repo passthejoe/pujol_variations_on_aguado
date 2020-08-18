@@ -41,7 +41,7 @@ As bona fide students of Tárrega, guitarists Miguel Llobet and Pujol toured the
 
 Segovia commissioned hundreds of original works for the guitar, composed a few of his own, and issued a decent number of editions of works by famous composers, many of which consist of studies and etudes. Yet aside from his famous (and famously short) editions of major and minor scales and slur studies, Segovia never put together his own guitar method.
 
-Pujol was also a prolific composer for the guitar. Not only did he pack the four volumes of "Escuela Razonada" with studies, many of them performance-worthy, but he also published 245 compositions and transcriptions for Paris publisher Max Eschig and more than 40 for Argentina's Ricordi Americana, the publisher of the Spanish/French "Escuela."
+Pujol was also a prolific composer for the guitar. Not only did he pack the four volumes of "Escuela Razonada" with studies, many of them performance-worthy, but he also published 245 compositions and transcriptions for Paris publisher Max Eschig and more than 40 for Argentina's Ricordi Americana, the publisher of the Spanish/French "Escuela." (Information from the back cover of "Guitar School: Book One" from Editions Orphée)
 
 Mentioned in the *prefacio* of Volume 4 is a planned but never published "el quinto libro," covering (rough translation from the Spanish is mine) interpretation, transcription, composition, pedagogy, esthetics (??) and ethics of the guitar.
 
