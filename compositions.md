@@ -51,3 +51,37 @@ From Wikipedia
 ### Guitar duo
     
 * Francis Poulenc (1899–1963). Waltzes, arr from the piano Paris : Editions M. Eschig, c1970. 
+
+Who was Max Eschig, the man behind Éditions Max Eschig?
+
+From Durand Salabert Eschig:
+
+https://www.durand-salabert-eschig.com/en-GB/About-Us/Eschig.aspx
+
+The company was founded in 1907 by Max Eschig, who was Czech. His catalog was devoted to 20th century composers, including Eric Satie.
+
+He published many Spanish and Latin American composers, including Manuel de Falla (who wrote the intro to "Escuela Razonada"), Isaac Albéniz, Heitor Villa-Lobos, Leo Brouwer and Emilio Pujol.
+
+Durand bought Éditions Max Eschig in 1987. Publishers Durand, Salabert, Eschig and Ricordi were owned by BMG (dates unknown) and sold to Universal Music Publishing Group in 2007.
+
+Wikipedia:
+
+https://en.wikipedia.org/wiki/Max_Eschig
+
+
+
+Search for Pujol:
+
+https://www.durand-salabert-eschig.com/en-GB/Catalogue.aspx?sc=text%3Dpujol%26applySorting%3Dfalse
+
+Max Eschig-published works on IMSLP:
+
+https://imslp.org/wiki/Max_Eschig9
+
+## References
+
+Hal Leonard MGB 2014-2015 Classical Music Catalogue (PDF)
+
+Boosey & Hawkes web site sells many Pujol works:
+
+<https://www.boosey.com/shop/powersearch/powersearch_results?search=emilio+pujol&x=11&y=14>
