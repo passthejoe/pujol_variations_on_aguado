@@ -20,8 +20,8 @@ From Wikipedia
 * ME 7580 Becqueriana (Endecha) Pujol No. 1240
 * ME 3130 Cancion de Cuna (Berceuse) Pujol No. 1203 (1931)
 * ME 7884 Canto de Otono (Chant d’automne) Pujol n°1245
-* ME 7939 Cap i Cua (Variation désuète sur l’exercice 19 d’Aguado) Pujol n°1248
-* ME 7848 Caprice varié sur un thème d’Aguado Pujol n°1242
+* ME 7939 Cap i Cua (Variation désuète sur l’exercice 19 d’Aguado) Pujol No. 1248 — Note: A variation on Aguado's Exercise No. 19 that isn't one of the 17 in "Escuela Razonada" Volume 4.
+* ME 7848 Caprice varié sur un thème d’Aguado Pujol No. 1242 (1969) — Note: Three variations on an Aguado theme
 * ME 7541 Endecha a la Amada Ausente Pujol n°1238
 * ME 2186 Étude n°1 Pujol n°1200
 * ME 2187 Étude n°2 Pujol n°1201
@@ -37,7 +37,7 @@ From Wikipedia
 * ME 7885 Pizzicato Pujol n°1247
 * ME 7236 Deux Préludes Pujol n°1233
 * ME 7027 Rapsodie Valenciana Pujol n°1228
-* ME 2190 Sevilla (Evocation) Pujol No. 1205
+* ME 2190 Sevilla (Evocation) Pujol No. 1205 (1948)
 * ME 7030 Triquilandia (Jugando al Escondite) Pujol n°1231
 * ME 7237 2e Triquilandia: 1. Œdipe et le Sphinx; 2. Variation; 3. Jeu; 4. La Plume de perdreau; 5. Branle bourguignon Pujol n°1234
 * ME 7533 3e Triquilandia: 1. Le Petit Grenadier; 2. Cantilène; 3. Valse Pujol n°1241,
@@ -97,3 +97,5 @@ Hal Leonard MGB 2014-2015 Classical Music Catalogue (PDF)
 Boosey & Hawkes web site sells many Pujol works:
 
 <https://www.boosey.com/shop/powersearch/powersearch_results?search=emilio+pujol&x=11&y=14>
+
+The collection from AbeBooks seller partitions-anciennes from the archives of Ida Presti and Alexandre Lagoya <https://www.abebooks.com/collections/sc/guitare/50iJqvpBxGOwIxwOQVePXH?rec=false&cm_sp=collection-_-showmore-_-collections> 
