@@ -7,7 +7,9 @@ From Wikipedia
 
 ### Solo guitar
 
-(ME numbers refer to the catalog number of Pujol's publisher, Max Eschig, Paris)
+ME numbers refer to the catalog number of Pujol's publisher, Max Eschig, Paris.
+
+BA numbers are from Ricordi Americana, Buenos Aires, Argentina.
 
 
 
@@ -41,18 +43,22 @@ From Wikipedia
 * ME 2586-88 Trois Morceaux espagnols: 1. Tonadilla; 2. Tango; 3. Guajira Pujol n°1204
 * ME 3129 Pequena Romanza Pujol n°1222
 * ME 7848 Caprice varié sur un thème d'Aguado <https://www.abebooks.com/servlet/BookDetailsPL?bi=21699214312> ($20.67 + $6.57)
+* BA 9585 Paisaje (Estudio de trémolo sobre un motivo inédito de Tárrega) Ricordi
 * ME 7885 Pizzicato Pujol n°1247
 * ME 7236 Deux Préludes Pujol n°1233
 * ME 7027 Rapsodie Valenciana Pujol n°1228
-* BA 11113 Seguidilla Ricordi Americana (1955)
+* BA 11112 Salve. Ricordi
+* BA 11113 Seguidilla. Ricordi (1955)
 * ME 2190 Sevilla (Evocation) Pujol No. 1205 (1948)
 * ME 2587 Tango (A Matilde Cuervas) Pujol No. ? (1926)
+* BA 11111 Los Tres Tambores (Glosa de la canción popular catalana) Ricordi
 * ME 7030 Triquilandia (Jugando al Escondite) Pujol n°1231
 * ME 7237 2e Triquilandia: 1. Œdipe et le Sphinx; 2. Variation; 3. Jeu; 4. La Plume de perdreau; 5. Branle bourguignon Pujol n°1234
 * ME 7533 3e Triquilandia: 1. Le Petit Grenadier; 2. Cantilène; 3. Valse Pujol n°1241,
 * ME 7991 Triptyque campagnard (1971): 1. Aube; 2. Bucolique; 3. Fête Pujol n°1249
 * ME 7883 Variations sur un thème obsédant Pujol n°1244
 * ME 7029 Veneciana Pujol n°1230
+* BA 12352 Villanesca (Dansa campesina) Ricordi
 
 ### Guitar duo
     
@@ -64,14 +70,31 @@ From Wikipedia
 * ME 8081 Tyrolienne (Tirolesa) Pujol n°1417b
     
 ## Transcriptions
+
+### Solo guitar
+
+RF 7695 Al Atardecer en los Jardines de Arlaja, de C. Pedrell. Ricordi
+RF 7688 ¡Ay, Mi Vida! Estilo, de A. Broqua. Ricordi
+BA 10831 La Campana de la Tarde. Boceto, de E. Granados. Ricordi
     
 ### Guitar duo
+
     
 * Francis Poulenc (1899–1963). Waltzes, arr from the piano Paris : Editions M. Eschig, c1970. 
 
 ## Voice and guitar
 
+* BA 11665 De Antequera Sale El Moro (Romance viejo) de Morales-Fuenllana. Transcripción de la cifra para guitarra o vihuela y canto. Ricordi
 * ME 7534 En Avila mis ojos (1965) <https://www.abebooks.com/servlet/BookDetailsPL?bi=21699224855> ($17.72 + $6.57)
+
+## Obras teoricas (Theoretical works)
+
+* BA 11836 El Dilema del Sonido en la Guitarra (español, francés e inglés) Ricordi
+* BA 9587 La Escuela Razonada de la Guitarra, Tomo 1 (español y francés) Ricordi
+* BA 9563 La Escuela Razonada de la Guitarra, Tomo 2 (español y francés) Ricordi
+* BA 10945 La Escuela Razonada de la Guitarra, Tomo 3 (español y francés) Ricordi
+* BA 12838 La Escuela Razonada de la Guitarra, Tomo 4 (español y francés) Ricordi
+
 
 Who was Max Eschig, the man behind Éditions Max Eschig?
 
