@@ -59,6 +59,8 @@ These chapters/essays are part of the project:
 
 [A 701-page doctoral dissertation on Emilio Pujol from 2010. In Spanish.](/pujol_dissertation.md)
 
+[Recordings of Emilio Pujol](pujol_recordings.md)
+
 **Upcoming:**
 
 Emilio Pujol Vilarrubí
