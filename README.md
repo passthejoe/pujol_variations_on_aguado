@@ -57,7 +57,7 @@ These chapters/essays are part of the project:
 
 [Antonio de Torres Jurado](/torres.md)
 
-[A 701-page doctoral dissertation on Emilio Pujol from 2010 (Spanish))[/pujol_dissertation.md]
+[A 701-page doctoral dissertation on Emilio Pujol from 2010 (Spanish))(/pujol_dissertation.md)
 
 **Upcoming:**
 
