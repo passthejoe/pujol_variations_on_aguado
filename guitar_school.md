@@ -1,6 +1,6 @@
-# Pujol's 'Guitar School,' the three-volume Editions Orphée translation of 'Escuela Razonada de La Guitarra'
+# Emilio Pujol's 'Guitar School,' the three-volume Editions Orphée translation of 'Escuela Razonada de La Guitarra'
 
-There's *something* about Emilio Pujol's four-volume guitar method, product of the 1930s-1950s though it is, that makes it relevant not just as vital history of the classical guitar but also a credible instructional choice for 21st-century players.
+There's *something* about Emilio Pujol's four-volume guitar method, product of the 1930s-50s though it is, that makes it relevant not just as vital history of the classical guitar but also a viable instructional choice for 21st-century players.
 
 Even though PDFs of 1990s-printed Spanish-French editions of "Escuela Razonada" are [easily available](http://biblio.upmx.mx/library/index.php?title=310329&lang=es&query=@title=Special:GSMSearchPage@process=@titulo=@autor=pujol@keywords=@material=@ubicacion=@sortby=sorttitle@mode=&recnum=14&mode=), I recommend and encourage students and teacher of the classical guitar to acquire the Editions Orphée translation of Pujol's first three volumes. The editing and translation are *extremely* well-done. The insight into what Pujol and others call the School of Tárrega is critical to the history of guitar technique. Pujol himself is an important, underappreciated figure, and these translations bring one of his major contributions to the English-reading world.
 
