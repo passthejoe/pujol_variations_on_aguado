@@ -22,6 +22,12 @@ In August 2020, Strings by Mail prices for "Guitar School" are
 
 Book Three was reprinted — with a full re-typesetting — in 2012, [as Matanya Ophee wrote](https://matanya.livejournal.com/123740.html) in his extensive LiveJournal
 
+Even though Book Four was never translated into English, I recommend it. There are hundreds of exercises and dozens of studies, including the Agaudo with Pujol variations that inspired this project. I recently purchased the Melos edition from Amazon. I received a printed-on-demand volume that looks pretty good and was definitely priced right. The book is very obviously reproduced from a scan of a previous Ricordi edition, but it's clearer than you might expect.
+
+I wish Editions Orphée had translated Book 4.
+
+In his Book 3 preface, Pujol mentions a Book 5 that, if it exists, has never been released in any language.
+
 ## References
 
 Matanya Ophee's LiveJournal <https://matanya.livejournal.com>
