@@ -11,6 +11,8 @@ ME numbers refer to the catalog number of Pujol's publisher, Max Eschig, Paris.
 
 BA numbers are from Ricordi Americana, Buenos Aires, Argentina.
 
+RF numbers are from Ricordi. Not sure if it's Ricordi France or something else.
+
 
 
 * TIENTO PUJOL EMILIO / FUENLLANA MIGUEL No. 1009
@@ -76,10 +78,13 @@ BA numbers are from Ricordi Americana, Buenos Aires, Argentina.
 RF 7695 Al Atardecer en los Jardines de Arlaja, de C. Pedrell. Ricordi
 RF 7688 ¡Ay, Mi Vida! Estilo, de A. Broqua. Ricordi
 BA 10831 La Campana de la Tarde. Boceto, de E. Granados. Ricordi
+BA 11114 Capricho XVI, de N. Paganini. Ricordi
+RF 7693 Doña Mencia. De "Danzas de las tres princesas cautivas" de C. Pedrell. Ricordi
+RF 7697 
     
 ### Guitar duo
 
-    
+* BA 9582 Cordoba, de I. Albéniz. Para 2 guitarras. Ricordi   
 * Francis Poulenc (1899–1963). Waltzes, arr from the piano Paris : Editions M. Eschig, c1970. 
 
 ## Voice and guitar
