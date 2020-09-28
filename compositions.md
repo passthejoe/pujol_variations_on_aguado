@@ -75,17 +75,18 @@ RF numbers are from Ricordi. Not sure if it's Ricordi France or something else.
 
 ### Solo guitar
 
-RF 7695 Al Atardecer en los Jardines de Arlaja, de C. Pedrell. Ricordi
-RF 7688 ¡Ay, Mi Vida! Estilo, de A. Broqua. Ricordi
-BA 10831 La Campana de la Tarde. Boceto, de E. Granados. Ricordi
-BA 11114 Capricho XVI, de N. Paganini. Ricordi
-RF 7693 Doña Mencia. De "Danzas de las tres princesas cautivas" de C. Pedrell. Ricordi
+* RF 7695 Al Atardecer en los Jardines de Arlaja, de C. Pedrell. Ricordi
+* RF 7688 ¡Ay, Mi Vida! Estilo, de A. Broqua. Ricordi
+* BA 10831 La Campana de la Tarde. Boceto, de E. Granados. Ricordi
+* BA 11114 Capricho XVI, de N. Paganini. Ricordi
+* RF 7693 Doña Mencia. De "Danzas de las tres princesas cautivas" de C. Pedrell. Ricordi
+* ME 7232 Prélude de la Première Suite pour Violincello de J.S. Bach (Prelude from Cello Suite No. 1, BWV 1007). Pujol No. 1073
 RF 7697 
     
 ### Guitar duo
 
 * BA 9582 Cordoba, de I. Albéniz. Para 2 guitarras. Ricordi   
-* Francis Poulenc (1899–1963). Waltzes, arr from the piano Paris : Editions M. Eschig, c1970. 
+* ME 1413 Francis Poulenc (1899–1963). Waltzes, arr from the piano Paris : Editions M. Eschig, c1970. 
 
 ## Voice and guitar
 
