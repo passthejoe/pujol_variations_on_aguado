@@ -81,7 +81,6 @@ RF numbers are from Ricordi. Not sure if it's Ricordi France or something else.
 * BA 11114 Capricho XVI, de N. Paganini. Ricordi
 * RF 7693 Doña Mencia. De "Danzas de las tres princesas cautivas" de C. Pedrell. Ricordi
 * ME 7232 Prélude de la Première Suite pour Violincello de J.S. Bach (Prelude from Cello Suite No. 1, BWV 1007). Pujol No. 1073
-RF 7697 
     
 ### Guitar duo
 
