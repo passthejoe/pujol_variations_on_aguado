@@ -7,7 +7,7 @@ From Wikipedia
 
 ### Solo guitar
 
-ME numbers refer to the catalog number of Pujol's publisher, Max Eschig, Paris.
+ME numbers refer to the catalog number of Pujol's publisher, Max Eschig, Paris. Most Pujol publications from Max Eschig also have separate Pujol catalog numbers.
 
 BA numbers are from Ricordi Americana, Buenos Aires, Argentina.
 
@@ -82,7 +82,7 @@ RF numbers are from Ricordi. Not sure if it's Ricordi France or something else.
 * RF 7693 Doña Mencia. De "Danzas de las tres princesas cautivas" de C. Pedrell. Ricordi
 * ME 7232 Prélude de la Première Suite pour Violincello de J.S. Bach (Prelude from Cello Suite No. 1, BWV 1007). Pujol No. 1073
     
-### Guitar duo
+### Guitar duoFrancis Poulenc emilio pujol
 
 * BA 9582 Cordoba, de I. Albéniz. Para 2 guitarras. Ricordi   
 * ME 1413 Francis Poulenc (1899–1963). Waltzes, arr from the piano Paris : Editions M. Eschig, c1970. 
