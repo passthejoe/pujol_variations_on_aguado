@@ -25,7 +25,7 @@ While *el segundo libro* and *el tercero libro* both contain studies grouped tog
 
 Volume 4 offers the short Exercise 19 from the influential guitar method by 19th-century giant Dionisio Aguado and follows it with *Estudios* LIV through LXX, 17 variations — the final one a fugue — composed by Pujol. Each variation focuses on different guitar techniques while at the same time venturing into harmonic territory that is very much of Pujol's time, the later Romantic and early modern periods of classical music.
 
-In this essay I will attempt to place the Aguado exercise and the Pujol variations into some kind of context within the *canon* of guitar methods, running from those of Fernando Sor, Aguado and Matteo Carcassi through Pujol's own comprehensive yet overlooked four-volume method.
+In this essay I will attempt to place the Aguado exercise and the Pujol variations into some kind of context within the *canon* of guitar methods, running from those of Fernando Sor, Aguado and Matteo Carcassi through Pujol's own comprehensive yet overlooked four-volume method, which has a (not so much) lost (but never found) fifth volume.
 
 [![Frank Bungarten plays Pujol](https://img.youtube.com/vi/bxC5-mW5MVQ/0.jpg)](https://www.youtube.com/watch?v=bxC5-mW5MVQ)
 
