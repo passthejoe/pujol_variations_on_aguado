@@ -47,15 +47,15 @@ Mentioned in the *prefacio* of Volume 4 is a planned but never published "el qui
 
 These chapters/essays are part of the project:
 
-[Emilio Pujol's 'Escuela Razonada de La Guitarra,' 4 volumes in Spanish and French](/escuela_razonda_de_la_guitarra.md)
+[Emilio Pujol's 'Escuela Razonada de La Guitarra,' 4 volumes in Spanish and French](escuela_razonda_de_la_guitarra.md)
 
-[Pujol's 'Guitar School,' 3 volumes in English](/guitar_school.md)
+[Pujol's 'Guitar School,' 3 volumes in English](guitar_school.md)
 
-[The Aguado study and 17 variations](/aguado_study_and_17_variations.md)
+[The Aguado study and 17 variations](aguado_study_and_17_variations.md)
 
-[Volume 4 of Pujol's 'Escuela Razonada de La Guitarra'](/volume_4.md)
+[Volume 4 of Pujol's 'Escuela Razonada de La Guitarra'](volume_4.md)
 
-[Antonio de Torres Jurado](/torres.md)
+[Antonio de Torres Jurado](torres.md)
 
 [A 701-page doctoral dissertation on Emilio Pujol from 2010. In Spanish.](/pujol_dissertation.md)
 
