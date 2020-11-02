@@ -61,6 +61,8 @@ These chapters/essays are part of the project:
 
 [Recordings of Emilio Pujol](pujol_recordings.md)
 
+[Compositions of Emilio Pujol](compositions.md)
+
 **Upcoming:**
 
 Emilio Pujol Vilarrubí
