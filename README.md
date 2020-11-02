@@ -39,7 +39,7 @@ The other giant of the classical guitar, Andres Segovia, took the instrument to 
 
 As bona fide students of Tárrega, guitarists Miguel Llobet and Pujol toured the world, but neither maintained the performance schedule and relentless ability to promote himself and his instrument that characterized Segovia during his long career.
 
-Segovia commissioned hundreds of original works for the guitar, composed a few of his own, and issued a decent number of editions of works by famous composers. Many of those Segovia-edited works consist of studies and etudes, among them a heavily used edition of [Sor studies](https://www.amazon.com/Twenty-studies-guitar-Andres-Segovia/dp/0793543681/). Yet aside from his famous (and famously short) editions of major and minor scales and slur studies, Segovia never put together his own guitar method.
+Segovia commissioned hundreds of original works for the guitar, composed a few of his own, and issued a decent number of editions of works by famous composers. Many of those Segovia-edited works consist of studies and etudes, among them a heavily used edition of [Sor studies](https://www.amazon.com/Twenty-studies-guitar-Andres-Segovia/dp/0793543681/) first published in 1945, [according to Guitar Salon International](https://www.guitarsalon.com/store/p2807-fernando-sor-twenty-studies-wonline-audio.html). Yet aside from his famous (and famously short) editions of major and minor scales and slur studies, Segovia never put together his own guitar method.
 
 Pujol was also a prolific composer for the guitar. Not only did he pack the four volumes of "Escuela Razonada" with studies, many of them performance-worthy, but he also published 245 compositions and transcriptions for Paris publisher Max Eschig and more than 40 for Argentina's Ricordi Americana, the publisher of the Spanish/French "Escuela." (Information from the back cover of "Guitar School: Book One" from Editions Orphée)
 
@@ -79,7 +79,7 @@ Emilio Pujol: Estudios. CD. Frank Bungarten, guitarist. MDG Gold. Available from
 
 Frank Bungarten plays the Dionosio Aguado exercise and Emilio Pujol's variations at the University of Louisville in 2018. <https://www.youtube.com/watch?v=bxC5-mW5MVQ>
 
-Twenty Studies for the Guitar by Fernando Sor, edited by Andres Segovia. Hal Leonard. Available from Amazon: <https://www.amazon.com/Twenty-studies-guitar-Andres-Segovia/dp/0793543681>
+Twenty Studies for the Guitar by Fernando Sor, edited by Andres Segovia. Hal Leonard. Available from Amazon: <https://www.amazon.com/Twenty-studies-guitar-Andres-Segovia/dp/0793543681>. From Guitar Salon International: <https://www.guitarsalon.com/store/p2807-fernando-sor-twenty-studies-wonline-audio.html>
 
 *This work is available via GitHub [under a Creative Commons license](/LICENSE.md) that precludes republishing without attribution and for commercial use.* 
 
