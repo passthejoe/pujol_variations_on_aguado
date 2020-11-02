@@ -35,11 +35,11 @@ In this essay I will attempt to place the Aguado exercise and the Pujol variatio
 
 Looming over the literature and performance of the classical guitar from the late 19th century into the 20th were several prominent figures, including Francisco Tárrega, who nearly single-handedly dragged the guitar into the Romantic period through his teaching, compositions and transcriptions. Tárrega is regarded as the modern father of the guitar. The *School of Tárrega*, as his unwritten method and the followers of it are known, provided the inspiration — always prominently credited — for the methods written by Pujol, Pascual Roch and Julio Sagreras.
 
-The other giant of the classical guitar, Andres Segovia, who took the instrument to heights no one had reached before or since, praises Tárrega as a father of the modern guitar but sticks to the Segovia origin story of being almost entirely self-taught.
+The other giant of the classical guitar, Andres Segovia, took the instrument to heights no one had reached before or since. Segovia praises Tárrega as the father of the modern guitar but sticks to the Segovia origin story of being almost entirely self-taught.
 
 As bona fide students of Tárrega, guitarists Miguel Llobet and Pujol toured the world, but neither maintained the performance schedule and relentless ability to promote himself and his instrument that characterized Segovia during his long career.
 
-Segovia commissioned hundreds of original works for the guitar, composed a few of his own, and issued a decent number of editions of works by famous composers, many of which consist of studies and etudes. Yet aside from his famous (and famously short) editions of major and minor scales and slur studies, Segovia never put together his own guitar method.
+Segovia commissioned hundreds of original works for the guitar, composed a few of his own, and issued a decent number of editions of works by famous composers. Many of those Segovia-edited works consist of studies and etudes, among them a heavily used edition of [Sor studies](https://www.amazon.com/Twenty-studies-guitar-Andres-Segovia/dp/0793543681/). Yet aside from his famous (and famously short) editions of major and minor scales and slur studies, Segovia never put together his own guitar method.
 
 Pujol was also a prolific composer for the guitar. Not only did he pack the four volumes of "Escuela Razonada" with studies, many of them performance-worthy, but he also published 245 compositions and transcriptions for Paris publisher Max Eschig and more than 40 for Argentina's Ricordi Americana, the publisher of the Spanish/French "Escuela." (Information from the back cover of "Guitar School: Book One" from Editions Orphée)
 
@@ -78,6 +78,8 @@ Ronald Purcell
 Emilio Pujol: Estudios. CD. Frank Bungarten, guitarist. MDG Gold. Available from Amazon: <https://www.amazon.com/Estudios-Frank-Bungarten/dp/B07ZW98N4F> Also available on Spotify: <https://open.spotify.com/album/3AemhWycukvuac22AGO4tf>
 
 Frank Bungarten plays the Dionosio Aguado exercise and Emilio Pujol's variations at the University of Louisville in 2018. <https://www.youtube.com/watch?v=bxC5-mW5MVQ>
+
+Twenty Studies for the Guitar by Fernando Sor, edited by Andres Segovia. Hal Leonard. Available from Amazon: <https://www.amazon.com/Twenty-studies-guitar-Andres-Segovia/dp/0793543681>
 
 *This work is available via GitHub [under a Creative Commons license](/LICENSE.md) that precludes republishing without attribution and for commercial use.* 
 
