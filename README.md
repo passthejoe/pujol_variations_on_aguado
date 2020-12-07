@@ -10,7 +10,7 @@
 <tr>
 
 <td align="center" valign="center">
-<img src="emilio_pujol.jpg" width=200px alt="Picture of Emilio Pujol" />
+<img src="/images/emilio_pujol.jpg" width=200px alt="Picture of Emilio Pujol" />
 <br />
 Emilio Pujol
 </td>
