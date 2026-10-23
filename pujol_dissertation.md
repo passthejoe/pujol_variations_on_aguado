@@ -12,9 +12,9 @@ Completed in 2010
 
 for the Universitat Autònoma de Barcelona, Departament d ́Art, Doctorat en Història de l'Art i Musicologia
 
-**Here is where it lives on the Internet:**
+The dissertation seems to have moved around on the internet. So it will remain available, I added it to this repository:
 
-<https://www.tesisenred.net/handle/10803/5202>
+<https://github.com/passthejoe/pujol_variations_on_aguado/blob/main/fehr1de1.pdf>
 
 While written in Spanish, there are extensive listings of Pujol's compositions, transcriptions, recordings, other publications and concert appearances.
 
