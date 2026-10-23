@@ -3,7 +3,6 @@
 ### Their place in the four-volume "Escuela Razonada de la Guitarra" and the teacher/author/composer/performer's body of work
 
 **By Steven Rosenberg**
-<br/>*classical_guitar@passthejoe.net*
 
 <table width="200" border="0" cellpadding="5" align=right>
 
