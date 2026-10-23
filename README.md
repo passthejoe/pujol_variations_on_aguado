@@ -26,7 +26,7 @@ Volume 4 offers the short Exercise 19 from the influential guitar method by 19th
 
 In this essay I will attempt to place the Aguado exercise and the Pujol variations into some kind of context within the *canon* of guitar methods, running from those of Fernando Sor, Aguado and Matteo Carcassi through Pujol's own comprehensive yet overlooked four-volume method.
 
-[![Frank Bungarten plays Pujol](https://i.ytimg.com/vi/n_s-LaK9moU/maxresdefault.jpg)[(https://www.youtube.com/watch?v=bxC5-mW5MVQ](https://www.youtube.com/watch?v=E0EdB3CYNdk&list=OLAK5uy_nNwbsj83efRUU1waycrZrEmEVDRdtnZi8)]]
+[![Frank Bungarten plays Pujol](https://i.ytimg.com/vi/n_s-LaK9moU/maxresdefault.jpg)](https://www.youtube.com/watch?v=bxC5-mW5MVQ](https://www.youtube.com/watch?v=E0EdB3CYNdk&list=OLAK5uy_nNwbsj83efRUU1waycrZrEmEVDRdtnZi8)
 
 *Click the image above for [a YouTube playlist of Frank Bungarten playing the Aguado exercise and Pujol variations, and other Pujol studies](https://www.youtube.com/watch?v=E0EdB3CYNdk&list=OLAK5uy_nNwbsj83efRUU1waycrZrEmEVDRdtnZi8). The video's description doesn't say anything about Pujol, so this is quite a find. Bungarten also recorded the Aguado study and Pujol variations for [an MDG CD of Pujol studies](https://www.amazon.com/Estudios-Frank-Bungarten/dp/B07ZW98N4F/) using a 2018 Gary Southwell guitar modeled after an 1883 Antonio de Torres.* The recording is also [available on Spotify](https://open.spotify.com/album/3AemhWycukvuac22AGO4tf). **Also:** [Frank Bungarten's web site](http://www.frankbungarten.de).
 
